@@ -1,3 +1,6 @@
 [submodule "Specialisterne-Wordle"]
 	path = Specialisterne-Wordle
 	url = https://github.com/andr9528/Specialisterne-Wordle
+[submodule "Specialisterne-Docker"]
+	path = Specialisterne-Docker
+	url = https://github.com/andr9528/Specialisterne-Docker
