@@ -4,3 +4,6 @@
 [submodule "Specialisterne-Docker"]
 	path = Specialisterne-Docker
 	url = https://github.com/andr9528/Specialisterne-Docker
+[submodule "Specialisterne-Downloader"]
+	path = Specialisterne-Downloader
+	url = https://github.com/andr9528/Specialisterne-Downloader
