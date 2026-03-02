@@ -7,3 +7,6 @@
 [submodule "Specialisterne-Downloader"]
 	path = Specialisterne-Downloader
 	url = https://github.com/andr9528/Specialisterne-Downloader
+[submodule "spec-pdf-downloader"]
+	path = spec-pdf-downloader
+	url = https://github.com/andr9528/spec-pdf-downloader
