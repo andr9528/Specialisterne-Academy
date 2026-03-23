@@ -33,3 +33,13 @@ For week five we were given another persons repository to fork and then review.
 
 I were given Simons implementation for Week four.
 My fork of his implementation can be found inside the [Pdf Downloader Submodule](/spec-pdf-downloader/).
+
+## Week 6-7 - Team development of Fullstack Inventory program
+
+For week six and seven we were given a task to develop a fullstack program to store items in a database, and make them assecible via a frontend.
+
+My fork of his implementation can be found inside the [Specialisterne-Case---ETL-Pipeline](/Specialisterne-Case---ETL-Pipeline/).
+
+## Week 8 - Api Development
+
+For week eigth we were given an existing weather data database, and tasked with creating an Api to access the data.

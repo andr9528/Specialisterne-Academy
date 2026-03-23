@@ -10,3 +10,9 @@
 [submodule "spec-pdf-downloader"]
 	path = spec-pdf-downloader
 	url = https://github.com/andr9528/spec-pdf-downloader
+[submodule "Specialisterne-Inventory"]
+	path = Specialisterne-Inventory
+	url = https://github.com/andr9528/Specialisterne-Inventory
+[submodule "Specialisterne-Case---ETL-Pipeline"]
+	path = Specialisterne-Case---ETL-Pipeline
+	url = https://github.com/andr9528/Specialisterne-Case---ETL-Pipeline
